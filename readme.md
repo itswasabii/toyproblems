@@ -2,6 +2,7 @@
 
 Toy problems is a bunch of javascript function code challenges solved
 
+given as a code challenge in my bootcamp
 ## Installation
 
 
