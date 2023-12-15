@@ -1,6 +1,6 @@
 # Toy problems
 
-Foobar is a bunch of javascript function code challenges solved
+Toy problems is a bunch of javascript function code challenges solved
 
 ## Installation
 
