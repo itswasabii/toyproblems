@@ -1,4 +1,5 @@
 
+//Student Grade Generator Function
 const prompt = require('prompt-sync')({sigint: true});
 
 
